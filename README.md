@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224110039
+# Name: Naveen Jaisanker
+# Date: 17/08/2026
 
 
 # AIM:
@@ -74,12 +74,13 @@ Create detailed charts that…
 
 
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="924" height="445" alt="image" src="https://github.com/user-attachments/assets/6e7e2b55-880e-4909-bfde-efe3475afba3" />
 
 
 
@@ -93,6 +94,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1064" height="521" alt="image" src="https://github.com/user-attachments/assets/0b7ff9e8-08bb-467c-b944-95de544529fe" />
 
 
 
@@ -111,6 +113,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="497" height="756" alt="image" src="https://github.com/user-attachments/assets/c3b186f5-2972-4d2e-85d7-4fa22ca919d7" />
 
 
 
@@ -119,6 +122,9 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+
+<img width="390" height="466" alt="Screenshot 2026-08-17 112848" src="https://github.com/user-attachments/assets/84941479-4f18-4daa-8c1f-7b078eeebd23" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
